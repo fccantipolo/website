@@ -1,1 +1,10 @@
-/* Styling goes here... */
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap");
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.navbar.is-primary {
+  background-color: #0a0a23;
+  color: #fff;
+}
